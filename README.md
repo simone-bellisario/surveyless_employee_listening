@@ -34,6 +34,8 @@ This tool is able to identify the following topics:
 
  Before using it, please make sure you download all the needed files and reference them accordingly in the code (in my case, I used google drive).
 
+ This project is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).  
+
  Happy listening!
 
 
