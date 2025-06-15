@@ -34,6 +34,9 @@ This tool is able to identify the following topics:
 
  Before using it, please make sure you download all the needed files and reference them accordingly in the code (in my case, I used google drive).
 
+ Sentiment (pros vs cons) classifier: https://drive.google.com/drive/folders/1XN3uzoaST2EWm5i8z05M4xDHVHXWJts8
+ Topics classifier: https://drive.google.com/drive/folders/1kRxSi5ftRNZEGtiCG43i2IuSfKQTJBjC
+
  This project is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).  
 
  Happy listening!
