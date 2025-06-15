@@ -40,8 +40,6 @@ This tool is able to identify the following topics:
 
  This project is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).  
 
- Happy listening!
-
 
 
 
